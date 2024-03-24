@@ -20,4 +20,4 @@ function gradingSystem(grade){
 
 }
 
-gradingSystem(49)
+gradingSystem(grade)
